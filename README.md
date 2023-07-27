@@ -1,0 +1,1 @@
+Creating an ecommerce app as my project for SoftUni's Angular course.
